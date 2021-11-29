@@ -3,6 +3,7 @@ class Person(object):
     self.name = name;
     self.age = age;
 
+  # 将sex设置为属性
   @property
   def sex(self):
     return self._sex

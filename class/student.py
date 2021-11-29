@@ -26,6 +26,5 @@ print('aStudent=', aStudent.age)
 
 
 aStudent.sex = '男'
-aStudent.sex
 print('sex=', aStudent.sex)
 
